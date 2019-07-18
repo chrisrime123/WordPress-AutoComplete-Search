@@ -1,7 +1,5 @@
 # WordPress AutoComplete Search
-  - Searches posts and pages from a full screen overlay
 
-  
   
 | File | Description |
 | ------ | ------ |
