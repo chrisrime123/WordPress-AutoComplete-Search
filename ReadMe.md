@@ -1,8 +1,8 @@
 # WordPress AutoComplete Search
   - Searches posts and pages from a full screen overlay
-#
-#
 
+  
+  
 | File | Description |
 | ------ | ------ |
 | app.js | Javascript code - place in footer.php or JS file. |
